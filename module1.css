@@ -1,0 +1,43 @@
+#idCard {
+    font-family: 'Shadows Into Light', cursive;
+    background-color: pink;
+    border: 5px ridge black;
+    text-align: left;
+    margin: 100px 200px 0px;
+    border-radius: 15px;
+    width: 35em;
+    height: 15em;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    font-weight: bolder;
+    text-align: center;
+}
+
+img {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    margin: 20px;
+}
+
+#postFullName {
+    position: fixed;
+    top: 430px; right: 750px;
+    font-size: 30px;
+}
+
+#postAge {
+    margin: 0px 10px 0px;
+}
+
+#postPhoneNumber {
+    margin: 10px;
+}
+
+#postAddress {
+    margin: 10px 10px 25px;
+}
