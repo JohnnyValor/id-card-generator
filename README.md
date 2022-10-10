@@ -1,3 +1,3 @@
 # id-card-generator
-ID Card Generator, end of module 1.
+ID Card Generator.
 Utilizes CSS, HTML and Javascript
