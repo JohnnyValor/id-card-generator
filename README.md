@@ -1,3 +1,1 @@
-id-card-generator
-
-utilizes html, css and javascript
+JohnnyValor.github.io/id-card-generator
