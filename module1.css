@@ -25,13 +25,13 @@ img {
 }
 
 #postFullName {
-    position: fixed;
-    top: 430px; right: 750px;
-    font-size: 30px;
+    position: sticky;
+    margin: -80px 150px 0px;
+    font-size: 20px;
 }
 
 #postAge {
-    margin: 0px 10px 0px;
+    margin: 75px 10px 0px;
 }
 
 #postPhoneNumber {
