@@ -1,3 +1,4 @@
+// retrieves values from HTML elements & stores values in variables.
 function idCard() {
     let firstName = document.getElementById('firstName').value;
     let lastName = document.getElementById('lastName').value;
@@ -10,6 +11,7 @@ function idCard() {
     document.getElementById("postAddress").innerHTML = address;
 
 
+// if entered number is less than 100, assume age. If greater than 100, assume phone number.
     let numberArray = [];
     numberArray.push(age, phoneNumber);
 
