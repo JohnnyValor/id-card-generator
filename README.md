@@ -1,8 +1,6 @@
 ID Card Generator
 
-Introduction
-
-This is a simple ID card generator application built with HTML, CSS and JavaScript. The application allows the user to generate an ID card with a custom information.
+This is a ID card generator application. The application allows the user to generate an ID card with custom information. 
 
 Features:
 
