@@ -24,3 +24,10 @@ Concepts learned:
         Retrieving, Inputting, getbyID, innerHTML, eventListener
     Terminal & Source Control:
         CLI & Commands, Git, Commits, Repos, Github
+
+After learning these concepts, I decided to create an ID Card generator and was challenged to include the following:
+
+    Horizontally listed & aligned inputs for first & last name, age, phone number & address.
+    Manipulate the DOM to capture and display inputs.
+    CSS styling to mimic an ID card.
+    
